@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🛡️ [Plugin Name] - Advanced Authentication</h1>
+  <h1>🛡️ Localhost-login - Advanced Authentication</h1>
   <p>A comprehensive authentication system for Minecraft servers (Premium & Cracked) featuring Auto-Login.</p>
 
   <img src="https://img.shields.io/badge/Java-17%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
