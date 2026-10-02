@@ -1,0 +1,21 @@
+name: localhost-logowanie
+version: '${version}'
+
+main: pl.localhost.logowanie.Main
+api-version: '1.20'
+load: POSTWORLD
+
+authors: [ Localhost ]
+website:
+  discord: localhost_127001
+
+commands:
+  login:
+    aliases: [l]
+  register:
+    aliases: [reg]
+  changepassword:
+    aliases: [zmienhaslo]
+  unregister:
+  auth:
+    permission: auth.admin

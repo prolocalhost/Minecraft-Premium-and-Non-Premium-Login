@@ -1,0 +1,14 @@
+
+database:
+  type: JSON
+  mysql:
+    host: "127.0.0.1"
+    port: 3306
+    database: "serwer"
+    user: "root"
+    password: ""
+
+security:
+  timeout-seconds: 60
+  max-login-attempts: 3
+  kick-on-max-attempts: true
